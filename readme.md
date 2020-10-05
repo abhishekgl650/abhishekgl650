@@ -1,6 +1,11 @@
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=abhishekgl650.abhishekgl650)
 
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<a  href="https://www.linkedin.com/in/abhishek-goyal-338124168"><img src="https://github.com/abhishekgl650/abhishekgl650/blob/master/logo/linkedin.png" width="40" /></a> &nbsp; 
+<a  href="https://www.instagram.com/abhishekk_goyal/"><img src="https://github.com/abhishekgl650/abhishekgl650/blob/master/logo/instagram.png" width="40" /></a> &nbsp; 
+<a  href="https://twitter.com/Abhishe87760613"><img src="https://github.com/abhishekgl650/abhishekgl650/blob/master/logo/twitter.png" width="40" /></a>
+
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=abhishekgl650.abhishekgl650)
 
 ### Hi, I'm Abhishek Goyal, a Full Stack Developer 🚀 from India, Currently I'm shaping my career in Computer science engineering. Speaking regarding Professional Career, I have problem solving skills and hands on experience in programming skills. Beside's programming, I enjoy listening music 🎵 and traveling ✈️.
 
@@ -34,6 +39,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-
 </p>
+
+
 
