@@ -12,6 +12,8 @@
 - 🔭 I’m currently working on **JS/DS**
 - 🌱 I’m currently learning **REACT/NODE.JS**
 - 👯 I’m looking to collaborate on **Web**
+- 👨‍💻 All of my projects are available at my **Github account** 
 - 💬 Ask me about anything, I am happy to **help**
-
+- 📫 How to reach me **[Click here](https://www.linkedin.com/in/abhishek-goyal-338124168)**
+- ⚡ Fun fact **HTML is not a Programming Language**
 
