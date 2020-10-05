@@ -6,4 +6,12 @@
 
 ### Talking about Personal Stuffs:
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=abhishekgl650.abhishekgl650)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=abhishekgl650.abhishekgl650)
+
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🔭 I’m currently working on **JS/DS**
+- 🌱 I’m currently learning **REACT/NODE.JS**
+- 👯 I’m looking to collaborate on **Web**
+- 💬 Ask me about anything, I am happy to **help**
+
+
