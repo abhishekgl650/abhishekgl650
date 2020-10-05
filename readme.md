@@ -5,8 +5,6 @@
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=abhishekgl650.abhishekgl650)
 
-<br />
-
 ### Hi, I'm Abhishek Goyal, a Full Stack Developer 🚀 from India. Currently I'm shaping my career in Computer science engineering. Speaking regarding Professional Career, I have problem solving skills and hands on experience in programming skills. Beside's programming, I enjoy listening music 🎵 and traveling ✈️.
 
  <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
