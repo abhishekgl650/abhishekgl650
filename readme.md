@@ -2,7 +2,7 @@
 <a  href="https://www.linkedin.com/in/abhishek-goyal-338124168"><img src="https://github.com/abhishekgl650/abhishekgl650/blob/master/logo/linkedin.png" width="40" /></a> &nbsp; 
 <a  href="https://www.instagram.com/abhishekk_goyal/"><img src="https://github.com/abhishekgl650/abhishekgl650/blob/master/logo/instagram.png" width="40" /></a> &nbsp; 
 <a  href="https://twitter.com/Abhishe87760613"><img src="https://github.com/abhishekgl650/abhishekgl650/blob/master/logo/twitter.png" width="40" /></a>  &nbsp; 
-<a href="#">![Profile views](https://visitor-badge.glitch.me/badge?page_id=abhishekgl650.abhishekgl650)</a>
+<a href="#" style="align:right">![Profile views](https://visitor-badge.glitch.me/badge?page_id=abhishekgl650.abhishekgl650)</a>
 
 ### Hi, I'm Abhishek Goyal, a Full Stack Developer 🚀 from India. Currently I'm shaping my career in Computer science engineering. Speaking regarding Professional Career, I have problem solving skills and hands on experience in programming skills. Beside's programming, I enjoy listening music 🎵 and traveling ✈️.
 
